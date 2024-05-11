@@ -2,6 +2,9 @@
 
 Welcome to Car Forces, your ultimate destination to explore great rental cars!
 
+![Home page](/public/readme.jpeg)
+![Search Bar page](/public/searchBar.png)
+
 This project is built with [Next.js](https://nextjs.org/), bootstrapped using [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It offers a platform to discover and rent a variety of cars with ease.
 
 ## Overview
@@ -12,8 +15,8 @@ Car Forces provides a seamless browsing experience for users to discover a wide 
 
 - **Interactive Interface**: Explore rental car options through an engaging and user-friendly interface.
 - **Fast and Responsive**: Enjoy a smooth browsing experience on both desktop and mobile devices.
-- **Customizable**: Easily customize and tailor your search based on preferences such as car type, location, and more.
-- **Next.js Optimization**: Leveraging Next.js features for optimized performance and efficiency.
+- **Customizable**: Easily customize and tailor your search based on preferences such as car model, year, engine type and more.
+- **Next.js Optimization**: Leveraging Next.js, RapidApi for car data features for optimized performance and efficiency.
 
 ## Getting Started
 
