@@ -2,8 +2,8 @@
 
 Welcome to Car Forces, your ultimate destination to explore great rental cars!
 
-![Home page](/public/readme.jpeg)
-![Search Bar page](/public/searchBar.png)
+![Home page](/readmeImage/readme.jpeg)
+![Search Bar page](/readmeImage/searchBar.png)
 
 This project is built with [Next.js](https://nextjs.org/), bootstrapped using [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It offers a platform to discover and rent a variety of cars with ease.
 
